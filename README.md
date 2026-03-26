@@ -1,7 +1,5 @@
 # 🚀 NickNguyen8 Training Portfolio
 
-![AI-First Company Hero](./assets/ai-first-company-hero.png)
-
 Welcome to the training portfolio of **NickNguyen8**, a **Tech Nomad** and AI consultant specializing in **AI-First Transitions**, **Agentic AI Workflows**, and **Digital Literacy**.
 
 This repository serves as a centralized hub for training materials, curriculums, and research papers designed to empower individuals and organizations in the age of AI.
