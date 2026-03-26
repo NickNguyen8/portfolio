@@ -1,48 +1,91 @@
-# 🚀 NickNguyen8 Training Portfolio
+# NickNguyen8 — Consulting & Training Portfolio
 
-Welcome to the training portfolio of **NickNguyen8**, a **Tech Nomad** and AI consultant specializing in **AI-First Transitions**, **Agentic AI Workflows**, and **Digital Literacy**.
+> *Empowering individuals and organizations to thrive at the intersection of AI, Technology, and Modern Ways of Working.*
 
-This repository serves as a centralized hub for training materials, curriculums, and research papers designed to empower individuals and organizations in the age of AI.
-
----
-
-## 📂 Repository Structure
-
-| Folder | Content | Description |
-| :--- | :--- | :--- |
-| [**`01-AI-Adoption/`**](./01-AI-Adoption-Program/) | AI Program | Enterprise-grade AI Adoption strategies and Whitepapers (EN/VN). |
-| [**`02-AI-Maturity/`**](./02-AI-Maturity-Framework/) | Business Frameworks | Professional whitepapers and implementation kits for AI-First adoption. |
-| [**`03-Agentic-AI/`**](./03-Agentic-AI-Workflows/) | Technical Workflows | Advanced training modules for AI agents, prompting, and automated workflows. |
-| [**`Workshops/`**](./workshops/) | Session History | Agendas, handouts, and recordings from previous training sessions. |
-| [**`Templates/`**](./templates/) | Reusable Kits | Syllabus templates, session checklists, and branding assets. |
-| [**`Assets/`**](./assets/) | Visuals | Infographics, diagrams, and branding photography. |
+**Nick Nguyen** is an AI & DX Advisor with 16+ years of experience in Software Delivery, AI Adoption, Enterprise Setup, and Technology Consulting. This repository is the open knowledge base behind his consulting and training practice — covering research, frameworks, implementation guides, and training programs.
 
 ---
 
-## 🎯 Our Focus Areas
+## 📌 What You'll Find Here
 
-### 🏛️ 1. AI-First Maturity Framework
+This is not a slide deck repository. It is a **living knowledge system** organized around four core practice areas — each with its own research, methodology, and training content.
 
-We help businesses transition from "AI-Enabled" to "**AI-First**." This involves structural changes, culture shifts, and strategic roadmap development.
-
-- _Key Artifacts: [AI-First Whitepaper](./01-AI-Adoption-Program/documents/ai-first-company-v2-vn.md), [AI-Adoption-Program Roadmap](./02-AI-Maturity-Framework/AI-Adoption-Program.md)._
-
-### 🤖 2. Agentic AI & Human-AI Collaboration
-
-Training for the new era of software development and business operations using autonomous agents.
-
-- _Key Artifacts: Agentic Workflow Design, Prompting for Agents, Multi-Agent Systems._
-
-### 🌍 3. Digital Nomad & Tech Literacy
-
-Bridging the gap between technology and a flexible lifestyle. Training for the modern workforce.
-
----
-
-## 🛠️ Usage & Licensing
-
-This repo is primarily for **showcasing**. Most materials are under a [Creative Commons License](./LICENSE) (Attribution-NonCommercial-ShareAlike).
+```
+portfolio/
+├── programs/                             # Core consulting & training programs
+│   ├── 1-ai-adoption/                    # AI strategy, maturity assessment, roadmaps
+│   ├── 2-agentic-ai-for-enterprise/      # AI agents, automation, workflow design
+│   ├── 3-technology-operations/          # Enterprise tech setup, offshore, delivery models
+│   └── 4-delivery-leadership/            # Project delivery, team management, leadership
+├── frameworks/                           # Reusable tools & methodologies across programs
+├── workshops/                            # Records from past training & consulting engagements
+├── templates/                            # Proposals, session agendas, audit templates
+└── assets/                               # Visual assets, infographics, diagrams
+```
 
 ---
 
-**"A Tech Nomad in the AI Frontier."**
+## 🏛️ Practice Areas
+
+### 1. [AI Adoption](./programs/1-ai-adoption/)
+**Helping organizations close the gap between buying AI tools and creating real AI value.**
+
+Most companies are experimenting with AI. Very few are transforming through it. This program covers the research, frameworks, and implementation playbooks needed to move from "AI-Enabled" to truly "AI-First" — covering executive strategy, organizational change, maturity assessment, and measurable ROI.
+
+- 📄 [Whitepaper (EN)](./programs/1-ai-adoption/documents/ai-first-company-v2-en.md)
+- 📄 [Whitepaper (VN)](./programs/1-ai-adoption/documents/ai-first-company-v2-vn.md)
+
+---
+
+### 2. [Agentic AI for Enterprise](./programs/2-agentic-ai-for-enterprise/)
+**Designing and deploying AI agent systems that actually work in production.**
+
+Beyond chatbots and copilots — this program covers the architecture, tooling, governance, and change management required to run autonomous AI workflows inside an enterprise. From a single workflow agent to multi-agent orchestration systems, built for real operational constraints.
+
+*Content: Coming Soon*
+
+---
+
+### 3. [Technology Operations](./programs/3-technology-operations/)
+**Building high-performance technology teams and delivery models from the ground up.**
+
+For organizations scaling their engineering capabilities — onshore or offshore. This program covers everything from delivery center setup and team structure to operating models, vendor governance, and engineering culture that sustains quality at scale.
+
+*Content: Coming Soon*
+
+---
+
+### 4. [Delivery Leadership](./programs/4-delivery-leadership/)
+**Developing the skills that turn good engineers into great delivery leaders.**
+
+Technical expertise alone doesn't ship great products. This program trains the cross-functional skills that matter most in modern delivery: stakeholder management, estimation, risk mitigation, sprint execution, and team leadership — grounded in real project experience.
+
+*Content: Coming Soon*
+
+---
+
+## 🛠️ Shared Frameworks
+
+The [`frameworks/`](./frameworks/) directory contains methodologies that are reused across multiple programs:
+
+| Framework | Description | Used In |
+|:---|:---|:---|
+| [**SOW Audit**](./frameworks/sow-audit.md) | A structured method for auditing team workloads and identifying AI augmentation opportunities | AI Adoption, Agentic AI |
+| **AI Maturity Assessment** *(soon)* | Organization-level self-assessment across 5 pillars | AI Adoption |
+| **Delivery Health Check** *(soon)* | Quick diagnostic for project teams to identify delivery risks | Delivery Leadership |
+
+---
+
+## 💼 Engagement Model
+
+This knowledge base supports three modes of professional engagement:
+
+| Mode | Description |
+|:---|:---|
+| 🎓 **Training** | Workshops and structured programs for teams and organizations |
+| 🧭 **Consulting** | Strategic advisory: AI roadmaps, delivery model design, org diagnostics |
+| ⚙️ **Implementation** | Hands-on setup of AI workflows, delivery systems, or offshore operations |
+
+---
+
+*© 2026 Nick Nguyen. Content shared for professional reference. Reuse with attribution.*
