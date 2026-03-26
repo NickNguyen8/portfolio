@@ -1,0 +1,22 @@
+# OS specific files
+.DS_Store
+Thumbs.db
+.fseventsd
+
+# Configuration & Secrets
+.env
+.local.env
+/dist
+/build
+/node_modules
+
+# Backup and temp files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Personal/Local training drafts
+drafts/
+tmp/
+private/
