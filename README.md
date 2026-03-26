@@ -2,7 +2,7 @@
 
 > *Empowering individuals and organizations to thrive at the intersection of AI, Technology, and Modern Ways of Working.*
 
-**Nick Nguyen** is an AI & DX Advisor with 16+ years of experience in Software Delivery, AI Adoption, Enterprise Setup, and Technology Consulting. This repository is the open knowledge base behind his consulting and training practice — covering research, frameworks, implementation guides, and training programs.
+**Nick Nguyen** is a Delivery Director and Strategic Advisor with 16+ years of experience in Software Delivery, AI Adoption, Enterprise Setup, and Technology Consulting. This repository is the open knowledge base behind his consulting and training practice — covering research, frameworks, implementation guides, and training programs.
 
 ---
 
